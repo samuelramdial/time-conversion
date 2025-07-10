@@ -1,6 +1,6 @@
 # Time Conversion 
 Time Conversion is a Java console application designed to practice user input, method creation, and basic unit conversions - with a fun twist! Instead of converting seconds into typical time units, this program translates them into units such as **decaseconds**, **jiffies**, **New York minutes**, **nanocenturies**, and **scarmuccis**. 
-> This project was completed as part of a programming course at the University of North Carolina at Charlotte.
+> This project was completed as part of ITSC 1212 - Introduction to Computer Science I at the University of North Carolina at Charlotte.
 
 ## Features 
 - **Interactive CLI**: Prompts the user to enter their name and a time in seconds
