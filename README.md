@@ -10,3 +10,9 @@ Time Conversion is a Java console application designed to practice user input, m
   - **New York Minutes**: 1 NY minute = 1/20th of a second
   - **Nanocenturies**: 1 nanocentury = 3.156 seconds
   - **Scarmuccis**: 1 scarmucci = 11 days
+
+## Acknowledgements 
+Project developed for: 
+- **ITSC 1212 - Introduction to Computer Science I**
+- Intstructor: D.I. Von Briesen
+- University of North Carolina at Charlotte
